@@ -54,7 +54,6 @@ perintah
 2.git add *
 3.git commit -m "nama file terserah" *
 4.git remote """"""" link repo dari github """"""""(opsional)
-5.git push *
-6.git origin -u master
+5.git push origin -u master
 
 7.
