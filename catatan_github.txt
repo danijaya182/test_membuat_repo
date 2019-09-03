@@ -1,0 +1,60 @@
+senin, 2 september 2019
+
+Bootcamp
+1.HTML
+2.CSS
+3.JS
+4.GIT
+5.Database (mongo)
+6.NodeJS
+7.Auth (JWT)
+8.CRUD
+
+JSON Web Token
+SPA (single page application )
+
+stateless ada cookies
+statefull tidak ada cookies
+
+belajar react
+1.login
+2.register
+3.CRUD
+
+React
+adalah framework JS
+-untuk membangun UI
+DOM
+-Reusable
+-Single Page Appication 
+
+react ke React Native
+
+generator
+npx
+npm
+
+install react
+
+
+basic react
+1.jsx
+2.component
+3.props
+4.state
+
+pr
+postman
+minta pak piko kirim file postman
+
+buat no
+
+perintah
+1.git init
+2.git add *
+3.git commit -m "nama file terserah" *
+4.git remote """"""" link repo dari github """"""""(opsional)
+5.git push *
+6.git origin -u master
+
+7.
